@@ -11,7 +11,7 @@ Learn machine learning engineering from regression and classification to deploym
 
 
 <p align="center">
-- <a href="https://github.com/nathadriele/machine-learning-zoomcamp">Machine Learning Zoomcamp Repository by DataTalksClub</a> 
+- <a href="https://github.com/DataTalksClub/machine-learning-zoomcamp">Machine Learning Zoomcamp Repository by DataTalksClub</a> 
 - <a href="https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master?tab=readme-ov-file#how-to-join">How to join to Machine Learning Zoomcamp course</a> 
 </p>
 
