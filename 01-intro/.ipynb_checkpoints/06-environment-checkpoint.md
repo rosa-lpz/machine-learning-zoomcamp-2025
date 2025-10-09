@@ -17,8 +17,6 @@ Video: https://www.youtube.com/watch?v=pqQFlV3f9Bo&list=PL3MmuxUbc_hIhxl5Ji8t4O6
 This is the recommended approach for the course
 
 
-
-
 ## Ubuntu 22.04 on AWS
 
 * [This video](https://www.youtube.com/watch?v=IXSiYkP23zo) shows a complete end-to-end environment configuration for an AWS EC2 instance
@@ -128,7 +126,6 @@ To use Kaggle to open and run the Jupyter notebooks provided as part of this cou
 
    ![See this example](images/add-code-for-datafile-download.png)
    
-
 This way you can start with the exercise using Kaggle
 
 
