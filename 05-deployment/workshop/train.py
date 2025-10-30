@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
 import pickle
-
 import pandas as pd
 import numpy as np
 import sklearn
