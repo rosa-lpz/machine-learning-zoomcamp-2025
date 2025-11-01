@@ -122,7 +122,7 @@ Now predicting becomes simpler too:
 pipeline.predict_proba(datapoint)[0, 1]
 ```
 
-## Turning the notebook into a script
+## Turning the notebook into a script (train.py)
 
 We can now turn this notebook into a training script:
 
