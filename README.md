@@ -156,6 +156,8 @@ Learn to serve ML models at scale using Kubernetes and TensorFlow Serving.
 - Load balancing
 
 
+### Repository for Homework
+* [Machine Learning Zoomcamp - Homework](https://github.com/rosa-lpz/machine-learning-zoomcamp-homework/tree/main)
 
 ### [Capstone Project](projects/)
 
